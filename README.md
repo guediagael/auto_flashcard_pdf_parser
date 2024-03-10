@@ -1,0 +1,2 @@
+This is a small FastAPI project meant to be part of a system. <br>
+The only goal of this server is to parse the PDF document and send the result back to the flutter client. This is because flutter langchain DocumenltLoader library doesn't support PDF extraction at the time of this commit<br>
